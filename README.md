@@ -5,9 +5,9 @@ Code to extract about 50,000 images of famous places around the world
 ---
 
 >####*The code contains 3 java files:*####
->> * DriverClass.java --> Contains code to run selenium
+>> * DriverClass.java --> Contains code to run Selenium
 >> * ImageUrls.java --> TestNG class to extract image urls form browser, runs on Selenium Grid for parallel execution.
->> * IMapper.java --> Haddop Mapper class, contains code to run the image download on Hadoop parallely.
+>> * IMapper.java --> Hadoop Mapper class, contains code to run the image download on Hadoop parallely.
 
 > ---
 
