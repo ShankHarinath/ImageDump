@@ -1,0 +1,579 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>100/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Mar 11 20:05:41 PDT 2015</td>
+</tr>
+<tr><td>Total time:</td><td>7 seconds (7033 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 1 Great Wall of China</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 2 Pyramids of Giza</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 3 Machu Picchu</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 4 Serengeti Migration</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 5 Galapagos Islands</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 6 Grand Canyon</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 7 Angkor Temples</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 8 Antarctica Cruise</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 9 Taj Mahal</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 10 Iguazu Falls</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 11 Amazon Rain Forest</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 12 Great Barrier Reef</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 13 Bora Bora</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 14 Victoria Falls</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 15 Bagan</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 16 Petra</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 17 Potala Palace</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 18 Karnak</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 19 Mt Everest</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 20 Cappadocia</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 21 St. Peters Basilica</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 22 Fjords of Norway</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 23 Jerusalem Old City</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 24 Burj Khalifa</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 25 Borobudur</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 26 Forbidden City</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 27 Kashmir Valley</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 28 Li River Cruise</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 29 Ladakh</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 30 Alhambra</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 31 Louvre Museum</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 32 Perito Moreno Glac.</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 33 Banaue Terraces</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 34 Colosseum of Rome</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 35 Easter Island</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 36 Venice Canals/Alleys</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 37 Kathmandu Valley</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 38 Wat Phra Kaew</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 39 Yellowstone NP</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 40 Pompeii</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 41 Rio Panoramic View</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 42 Palace of Versailles</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 43 Dubrovnik</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 44 Golden Temple</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 45 St. Basils Cathedral</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 46 Vatican Museum</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 47 Florence Cityscape</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 48 Acropolis</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 49 Amalfi Coast Drive</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 50 Moscow Kremlin</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 51 Hong Kong View</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 52 TerraCotta Warriors</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 53 Mezquita Cordoba</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 54 Chichen Itza</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 55 Damascus Old City</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 56 Shwedagon Stupa</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 57 Sahara Desert</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 58 Mont St Michel</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 59 St. Marks Square</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 60 Egyptian Museum</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 61 Hagia Sophia</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 62 Angel Falls</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 63 Delphi</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 64 Teotihuacan</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 65 Baalbek</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 66 Banff NP</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 67 Santorini</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 68 Matterhorn</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 69 New York Skyline</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 70 Neuschwanstein</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 71 Chartres Cathedral</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 72 British Museum</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 73 Prague Old Town</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 74 Burj Al Arab</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 75 Yangtze River Cruise</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 76 Yosemite NP</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 77 Hermitage Museum</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 78 Torres del Paine</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 79 Chambord Chateau</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 80 Lijiang</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 81 Portofino</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 82 Great Ocean Road</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 83 Tongariro Alpine</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 84 Las Vegas Strip</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 85 Tikal</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 86 Topkapi Palace</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 87 Sydney Opera House</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 88 Eiffel Tower</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 89 Luxor Temple</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 90 Kerala Backwaters</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 91 Golden Gate Bridge</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 92 Cinque Terre</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 93 Metropolitan Mus</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 94 Uffizi Gallery</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 95 Ayers Rock</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 96 Cliffs of Moher</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 97 Pacific Coast Hwy</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 98 Shanghai Skyline</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 99 Glacier Bay NP</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+<tr>
+<td title='image.mapper.ImageUrls.runImageURLFetcher()'><b>runImageURLFetcher</b><br>Test class: image.mapper.ImageUrls<br>Parameters: 100 Wulingyuan</td>
+<td></td>
+<td>0</td>
+<td>image.mapper.ImageUrls@3796751b</td></tr>
+</table><p>
+</body>
+</html>

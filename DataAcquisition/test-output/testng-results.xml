@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="100" passed="100">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7033" started-at="2015-03-12T03:05:41Z" finished-at="2015-03-12T03:05:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7033" started-at="2015-03-12T03:05:41Z" finished-at="2015-03-12T03:05:48Z">
+      <class name="image.mapper.ImageUrls">
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="10" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1 Great Wall of China]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="2" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2 Pyramids of Giza]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3 Machu Picchu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="3" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4 Serengeti Migration]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="2" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5 Galapagos Islands]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6 Grand Canyon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="2" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7 Angkor Temples]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8 Antarctica Cruise]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9 Taj Mahal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="2" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10 Iguazu Falls]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11 Amazon Rain Forest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12 Great Barrier Reef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13 Bora Bora]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14 Victoria Falls]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15 Bagan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[16 Petra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[17 Potala Palace]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18 Karnak]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[19 Mt Everest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20 Cappadocia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[21 St. Peters Basilica]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[22 Fjords of Norway]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23 Jerusalem Old City]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[24 Burj Khalifa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[25 Borobudur]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26 Forbidden City]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[27 Kashmir Valley]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[28 Li River Cruise]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[29 Ladakh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30 Alhambra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[31 Louvre Museum]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="2" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32 Perito Moreno Glac.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[33 Banaue Terraces]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[34 Colosseum of Rome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[35 Easter Island]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[36 Venice Canals/Alleys]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[37 Kathmandu Valley]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[38 Wat Phra Kaew]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[39 Yellowstone NP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[40 Pompeii]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[41 Rio Panoramic View]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[42 Palace of Versailles]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[43 Dubrovnik]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[44 Golden Temple]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[45 St. Basils Cathedral]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[46 Vatican Museum]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[47 Florence Cityscape]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[48 Acropolis]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[49 Amalfi Coast Drive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50 Moscow Kremlin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[51 Hong Kong View]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[52 TerraCotta Warriors]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[53 Mezquita Cordoba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="2" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[54 Chichen Itza]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[55 Damascus Old City]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[56 Shwedagon Stupa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[57 Sahara Desert]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[58 Mont St Michel]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[60 Egyptian Museum]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[59 St. Marks Square]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[61 Hagia Sophia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[62 Angel Falls]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[63 Delphi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[64 Teotihuacan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[65 Baalbek]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[66 Banff NP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[67 Santorini]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[68 Matterhorn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[69 New York Skyline]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[70 Neuschwanstein]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[71 Chartres Cathedral]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[72 British Museum]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[73 Prague Old Town]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[74 Burj Al Arab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[75 Yangtze River Cruise]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[76 Yosemite NP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[77 Hermitage Museum]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[78 Torres del Paine]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="5" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[79 Chambord Chateau]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="2" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[80 Lijiang]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[81 Portofino]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[82 Great Ocean Road]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[83 Tongariro Alpine]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[84 Las Vegas Strip]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[85 Tikal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="2" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[86 Topkapi Palace]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="3" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[87 Sydney Opera House]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="7" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[88 Eiffel Tower]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[89 Luxor Temple]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[90 Kerala Backwaters]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="2" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[91 Golden Gate Bridge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[92 Cinque Terre]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[93 Metropolitan Mus]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[94 Uffizi Gallery]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[95 Ayers Rock]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[96 Cliffs of Moher]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[97 Pacific Coast Hwy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[98 Shanghai Skyline]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="1" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100 Wulingyuan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="runImageURLFetcher(java.lang.String)[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="runImageURLFetcher" duration-ms="0" started-at="2015-03-11T20:05:48Z" data-provider="ObtainPlaces" finished-at="2015-03-11T20:05:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[99 Glacier Bay NP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runImageURLFetcher -->
+        <test-method status="PASS" signature="update()[pri:0, instance:image.mapper.ImageUrls@3796751b]" name="update" is-config="true" duration-ms="1" started-at="2015-03-11T20:05:48Z" finished-at="2015-03-11T20:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+      </class> <!-- image.mapper.ImageUrls -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
